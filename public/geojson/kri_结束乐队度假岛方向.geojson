@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "结束乐队度假岛站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "kri-结束乐队度假岛方向",
+      "railway_direction" : "结束乐队度假岛方向",
+      "tag" : "kri",
+      "railway_name" : "结束乐队专线"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 5629.0, -3146.0, 74.0 ]
+    }
+  } ]
+}

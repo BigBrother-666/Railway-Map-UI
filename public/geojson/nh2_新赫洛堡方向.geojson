@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "新赫洛堡站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "nh2-新赫洛堡方向",
+      "railway_direction" : "新赫洛堡方向",
+      "tag" : "nh2",
+      "railway_name" : "赫蒙铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 4119.0, 32.0, 70.0 ]
+    }
+  } ]
+}

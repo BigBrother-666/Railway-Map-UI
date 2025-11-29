@@ -1,0 +1,34 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "",
+      "child_platform_tags" : [ "sf-内环方向" ],
+      "platform_tag" : "scv-内环方向",
+      "railway_direction" : "内环方向",
+      "tag" : "scv",
+      "railway_name" : "环线铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 4312.0, -12998.0, 106.0 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "end_platform_tag" : "sf-内环方向",
+      "distance" : 216,
+      "line_type" : "main_line_second",
+      "end_station_name" : "风雪峡湾站",
+      "end_railway_direction" : "内环方向",
+      "end_railway_name" : "环线铁路",
+      "end_tag" : "sf",
+      "line_color" : "#ff5555"
+    },
+    "geometry" : {
+      "type" : "LineString",
+      "coordinates" : [ [ 4312.0, -12998.0, 106.0 ], [ 4312.0, -12782.0, 106.0 ] ]
+    }
+  } ]
+}

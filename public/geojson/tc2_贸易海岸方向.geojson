@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "贸易海岸站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "tc2-贸易海岸方向",
+      "railway_direction" : "贸易海岸方向",
+      "tag" : "tc2",
+      "railway_name" : "普朗铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17850.0, -961.0, 66.0 ]
+    }
+  } ]
+}

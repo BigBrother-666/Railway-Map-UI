@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "碧玺岛站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "bi-碧玺岛方向",
+      "railway_direction" : "碧玺岛方向",
+      "tag" : "bi",
+      "railway_name" : "芙德铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17955.0, -5148.0, 64.0 ]
+    }
+  } ]
+}

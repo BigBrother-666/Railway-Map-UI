@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "匕首半岛站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "dp2-匕首半岛方向",
+      "railway_direction" : "匕首半岛方向",
+      "tag" : "dp2",
+      "railway_name" : "普蒙铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11074.0, 2835.0, 81.0 ]
+    }
+  } ]
+}

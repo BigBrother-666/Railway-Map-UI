@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "风雪峡湾站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "sf2-风雪峡湾方向",
+      "railway_direction" : "风雪峡湾方向",
+      "tag" : "sf2",
+      "railway_name" : "极地铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 4110.0, -12114.0, 94.0 ]
+    }
+  } ]
+}

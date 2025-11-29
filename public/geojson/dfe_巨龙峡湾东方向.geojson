@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "巨龙峡湾东站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "dfe-巨龙峡湾东方向",
+      "railway_direction" : "巨龙峡湾东方向",
+      "tag" : "dfe",
+      "railway_name" : "普蒙铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19219.0, -12471.0, 113.0 ]
+    }
+  } ]
+}

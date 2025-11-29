@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "世界边缘山脉站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "em-世界边缘山脉方向",
+      "railway_direction" : "世界边缘山脉方向",
+      "tag" : "em",
+      "railway_name" : "普朗铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16354.0, -14646.0, 84.0 ]
+    }
+  } ]
+}

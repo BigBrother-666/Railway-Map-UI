@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "巨龙峡湾东站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "dfe2-巨龙峡湾东方向",
+      "railway_direction" : "巨龙峡湾东方向",
+      "tag" : "dfe2",
+      "railway_name" : "极地铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19219.0, -12494.0, 113.0 ]
+    }
+  } ]
+}

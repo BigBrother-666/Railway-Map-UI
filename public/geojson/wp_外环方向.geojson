@@ -1,0 +1,67 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "冬幕公园站",
+      "child_platform_tags" : [ "nh-外环方向" ],
+      "platform_tag" : "wp-外环方向",
+      "railway_direction" : "外环方向",
+      "tag" : "wp",
+      "railway_name" : "环线铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 3363.0, 1605.0, 101.0 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "distance" : 38,
+      "line_type" : "line_in",
+      "line_color" : "#ff5555"
+    },
+    "geometry" : {
+      "type" : "LineString",
+      "coordinates" : [ [ 3366.0, 1640.0, 101.0 ], [ 3365.0, 1640.0, 101.0 ], [ 3365.0, 1639.0, 101.0 ], [ 3364.0, 1639.0, 101.0 ], [ 3364.0, 1638.0, 101.0 ], [ 3363.0, 1638.0, 101.0 ], [ 3363.0, 1605.0, 101.0 ] ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "distance" : 39,
+      "line_type" : "line_out",
+      "line_color" : "#ff5555"
+    },
+    "geometry" : {
+      "type" : "LineString",
+      "coordinates" : [ [ 3363.0, 1605.0, 101.0 ], [ 3363.0, 1572.0, 101.0 ], [ 3364.0, 1572.0, 101.0 ], [ 3364.0, 1571.0, 101.0 ], [ 3365.0, 1571.0, 101.0 ], [ 3365.0, 1570.0, 101.0 ], [ 3366.0, 1570.0, 101.0 ] ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "distance" : 70,
+      "line_type" : "main_line_first",
+      "line_color" : "#ff5555"
+    },
+    "geometry" : {
+      "type" : "LineString",
+      "coordinates" : [ [ 3366.0, 1640.0, 101.0 ], [ 3366.0, 1570.0, 101.0 ] ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "end_platform_tag" : "nh-外环方向",
+      "distance" : 1460,
+      "line_type" : "main_line_second",
+      "end_station_name" : "新赫洛堡站",
+      "end_railway_direction" : "外环方向",
+      "end_railway_name" : "环线铁路",
+      "end_tag" : "nh",
+      "line_color" : "#ff5555"
+    },
+    "geometry" : {
+      "type" : "LineString",
+      "coordinates" : [ [ 3366.0, 1570.0, 101.0 ], [ 3366.0, 110.0, 77.0 ] ]
+    }
+  } ]
+}

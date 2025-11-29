@@ -1,0 +1,18 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "station_name" : "冰封港站",
+      "child_platform_tags" : [ ],
+      "platform_tag" : "fh-冰封港方向",
+      "railway_direction" : "冰封港方向",
+      "tag" : "fh",
+      "railway_name" : "赫蒙铁路"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9216.0, -14008.0, 85.0 ]
+    }
+  } ]
+}

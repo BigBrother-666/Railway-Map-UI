@@ -1,0 +1,55 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #f5f5f5;
+  background-color: #1c1c1c;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: #1c1c1c;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+.station-label {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.1;
+  margin-top: 7px;
+  text-align: center;
+  text-shadow:
+    -0.5px -0.5px 0 #000,
+    0.5px -0.5px 0 #000,
+    -0.5px 0.5px 0 #000,
+    0.5px 0.5px 0 #000;
+  paint-order: stroke;
+  background: none;
+  border: none;
+  padding: 0;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.leaflet-control-attribution {
+  background: none !important;
+  border: none !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  font-size: 11px;
+  padding: 0 !important;
+}
