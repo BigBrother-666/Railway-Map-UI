@@ -1,9 +1,9 @@
 export const mapConfig = {
-    imageWidth: 85760,
-    imageHeight: 90880,
+    imageWidth: 79744,
+    imageHeight: 89984,
     rate: 4,
-    leftTopX: 1279,
-    leftTopZ: -16961,
+    leftTopX: 1023,
+    leftTopZ: -16865,
     minZoom: 2.6,
     maxZoom: 12,
     minNativeZoom: 4,
@@ -12,6 +12,7 @@ export const mapConfig = {
 } as const;
 
 export const TILE_URL = "https://pub-051657fe55414cbea2688a0d4c5ecd76.r2.dev/{z}/{x}/{y}.png";
+// export const TILE_URL = "/tiles/{z}/{x}/{y}.png";
 
 export const STATIONS_PANE = "stationsPane";
 export const COMMON_LINES_PANE = "commonLinesPane";
