@@ -12,6 +12,7 @@ export const mapConfig = {
 } as const;
 
 export const TILE_URL = "https://pub-051657fe55414cbea2688a0d4c5ecd76.r2.dev/{z}/{x}/{y}.png";
+// export const TILE_URL = "/tiles/{z}/{x}/{y}.png";
 
 export const STATIONS_PANE = "stationsPane";
 export const COMMON_LINES_PANE = "commonLinesPane";
@@ -147,6 +148,8 @@ export const GEOJSON_FILES = [
     "gp_新赫洛堡方向.geojson",
     "gv_匕首半岛方向.geojson",
     "gv_巨龙峡湾东方向.geojson",
+    "ic_结束乐队度假岛方向.geojson",
+    "ic_结束乐队开发区方向.geojson",
     "kbzx_结束乐队度假岛方向.geojson",
     "kri_结束乐队度假岛方向.geojson",
     "kri_结束乐队开发区方向.geojson",
@@ -254,6 +257,8 @@ export const GEOJSON_FILES = [
     "tcplz2lpd_.geojson",
     "tc_内环方向.geojson",
     "tc_外环方向.geojson",
+    "tht_匕首半岛方向.geojson",
+    "tht_巨龙峡湾东方向.geojson",
     "th_匕首半岛方向.geojson",
     "th_巨龙峡湾东方向.geojson",
     "ti2_世界边缘山脉方向.geojson",

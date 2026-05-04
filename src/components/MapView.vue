@@ -185,7 +185,7 @@ function loadTiles() {
         bounds: rasterCoords.getMaxBounds(),
         maxNativeZoom: rasterCoords.zoomLevel(),
         opacity: 0.2,
-        attribution: `© 2026 Paralon Railway Company | BigBrother  `
+        attribution: `© 2026 Paralon Railway Company | Updated on 2026.05.04 `
     }).addTo(mapInstance);
     mapInstance.attributionControl.setPrefix(false);
 }
