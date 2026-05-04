@@ -1,9 +1,9 @@
 export const mapConfig = {
-    imageWidth: 85760,
-    imageHeight: 90880,
+    imageWidth: 79744,
+    imageHeight: 89984,
     rate: 4,
-    leftTopX: 1279,
-    leftTopZ: -16961,
+    leftTopX: 1023,
+    leftTopZ: -16865,
     minZoom: 2.6,
     maxZoom: 12,
     minNativeZoom: 4,
