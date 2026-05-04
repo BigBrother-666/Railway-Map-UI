@@ -404,7 +404,7 @@ export class Graph {
 
     async loadAllGeoJSON() {
         const tasks = GEOJSON_FILES.map(async (file) => {
-            const res = await fetch(`./geojson/${file}`);
+            const res = await fetch(`${import.meta.env.BASE_URL}geojson/${file}`);
             if (!res.ok) {
                 throw new Error(`加载失败: ${file}`);
             }
